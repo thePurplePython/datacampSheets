@@ -1,2 +1,2 @@
 # datacampSheets
-public datacamp cheat sheets
+public datacamp reference sheets
